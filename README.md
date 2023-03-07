@@ -2,12 +2,12 @@
 
 - 🔭 I'm a frontend developer with experience in building responsive and interactive websites and web applications using modern web technologies such as HTML, CSS, JavaScript, React, and other related libraries and frameworks.
 
--🌱  ### What I can do 
-      * Build responsive, mobile-first web pages and applications using HTML, CSS, and JavaScript
-     * Develop web applications using React and other related libraries
-     * Implement designs and layouts using tools such as Figma 
-     * Work with APIs to integrate data and functionality into web applications
-     * Use Git and GitHub for version control and collaboration
+- 🌱  
+       Build responsive, mobile-first web pages and applications using HTML, CSS, and JavaScript
+     ||Develop web applications using React and other related libraries
+     || Implement designs and layouts using tools such as Figma 
+     || Work with APIs to integrate data and functionality into web applications
+     || Use Git and GitHub for version control and collaboration
 
 - 👯 I’m looking to collaborate on building user interfaces (website) with developers and designers.
 
