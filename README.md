@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there I'm Victoria Oluwaferanmi👋
 
-<!--
-**VictoriaOluwaferanmi/VictoriaOluwaferanmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭I'm a frontend developer with experience in building responsive and interactive websites and web applications using modern web technologies such as HTML, CSS, JavaScript, React, and other related libraries and frameworks.
 
-Here are some ideas to get you started:
+🌱    Build responsive, mobile-first web pages and applications using HTML, CSS, and JavaScript
+      Develop web applications using React and other related libraries
+      Implement designs and layouts using tools such as Figma 
+      Work with APIs to integrate data and functionality into web applications
+      Use Git and GitHub for version control and collaboration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on building user interfaces (website) with developers and designers.
+
+- 🤔 I am actively seeking opportunities to work as a frontend developer, where I can apply my skills and experience to create high-quality, responsive, and visually appealing web pages and applications.
+
+- 📫  https://www.linkedin.com/in/victoria-oluwaferanmi-463352116/     victoriaoluwaferanmi@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ I am passionate about creating clean, user-friendly, and visually appealing interfaces that are optimized for performance and usability.
