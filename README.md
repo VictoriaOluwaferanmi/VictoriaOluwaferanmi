@@ -1,6 +1,7 @@
 ### Hi there I'm Victoria Oluwaferanmi👋
 
-- 🔭 I'm a frontend developer with experience in building responsive and interactive websites and web applications using modern web technologies such as HTML, CSS, JavaScript, React, and other related libraries and frameworks.
+- 🔭 
+- I'm a frontend developer with experience in building responsive and interactive websites and web applications using modern web technologies such as HTML, CSS, JavaScript, React, and other related libraries.
 
 - 🌱  
        Build responsive, mobile-first web pages and applications using HTML, CSS, and JavaScript
