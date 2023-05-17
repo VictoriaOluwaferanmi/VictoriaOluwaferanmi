@@ -8,7 +8,7 @@
      || Develop web applications using React and other related libraries
      || Implement designs and layouts using tools such as Figma 
      || Work with APIs to integrate data and functionality into web applications
-     || Use Git and GitHub for version control and collaboration
+     || Use Git, Github and Gitlab environment  for version control and collaboration
 
 - 👯 I’m looking to collaborate on building user interfaces (website) with developers and designers.
 
