@@ -14,6 +14,6 @@
 
 - 🤔 I am actively seeking opportunities to work as a frontend developer, where I can apply my skills and experience to create high-quality, responsive, and visually appealing web pages and applications.
 
-- 📫  https://www.linkedin.com/in/victoria-oluwaferanmi-463352116/      <br>      victoriaoluwaferanmi@gmail.com
+- 📫  https://medium.com/@victoriaoluwaferanmi    https://www.linkedin.com/in/victoria-oluwaferanmi-463352116/      <br>      victoriaoluwaferanmi@gmail.com
 - 😄 She/Her
 - ⚡ I am passionate about creating clean, user-friendly, and visually appealing interfaces that are optimized for performance and usability.
