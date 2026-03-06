@@ -28,7 +28,6 @@ I'm a frontend specialist with expertise in creating clean, performance-optimize
 ## 📚 My Work & Articles
 - 📝 **Medium:** [victoriaoluwaferanmi](https://medium.com/@victoriaoluwaferanmi)
 - 💼 **LinkedIn:** [Victoria Oluwaferanmi](https://www.linkedin.com/in/victoria-oluwaferanmi-463352116/)
-- 📄 **Resume:** [View on Google Drive](https://drive.google.com/file/d/17CgiiYwfqXQ4NgXa_i8wGKmnGyZ00DCX/view?usp=drive_link)
 - 📧 **Email:** victoriaoluwaferanmi@gmail.com
 
 ---
