@@ -1,19 +1,36 @@
-### Hi there I'm Victoria Oluwaferanmi👋
+# Hi there, I'm Victoria Oluwaferanmi 👋
 
-- 🔭 
- I'm a frontend developer with experience in building responsive and interactive websites and web applications using modern web technologies such as HTML, CSS, JavaScript, React, and other related libraries.
+I'm a **Frontend Developer** passionate about building responsive, user-friendly web applications that deliver excellent user experiences.
 
-- 🌱  
-       Build responsive, mobile-first web pages and applications using HTML, CSS, and JavaScript
-     || Develop web applications using React and other related libraries
-     || Implement designs and layouts using tools such as Figma 
-     || Work with APIs to integrate data and functionality into web applications
-     || Use Git, Github and Gitlab environment  for version control and collaboration
+## 💼 About Me
+I'm a frontend specialist with expertise in creating clean, performance-optimized interfaces using modern web technologies. I'm actively seeking opportunities to contribute to impactful projects with collaborative teams.
 
-- 👯 I’m looking to collaborate on building user interfaces (website) with developers and designers.
+## 🔧 Skills & Technologies
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks & Libraries:** React
+- **Design & Prototyping:** Figma
+- **Version Control:** Git, GitHub, GitLab
+- **API Integration:** RESTful APIs, data fetching
 
-- 🤔 I am actively seeking opportunities to work as a frontend developer, where I can apply my skills and experience to create high-quality, responsive, and visually appealing web pages and applications.
+## 🌱 What I Do
+- Build responsive, mobile-first web applications
+- Develop interactive user interfaces with React
+- Translate designs into clean, maintainable code
+- Integrate APIs and manage data workflows
+- Collaborate with designers and developers
 
-- 📫 Link to my Articles:  https://medium.com/@victoriaoluwaferanmi  || Link to Linkedin: 
-  https://www.linkedin.com/in/victoria-oluwaferanmi-463352116/      || Email address:     victoriaoluwaferanmi@gmail.com || My Resume: https://drive.google.com/file/d/17CgiiYwfqXQ4NgXa_i8wGKmnGyZ00DCX/view?usp=drive_link
-- ⚡ I am passionate about creating clean, user-friendly, and visually appealing interfaces that are optimized for performance and usability.
+## 💬 Open To
+- Freelance projects and contract work
+- Full-time frontend developer roles
+- UI/UX focused collaborations
+- Open source contributions
+
+## 📚 My Work & Articles
+- 📝 **Medium:** [victoriaoluwaferanmi](https://medium.com/@victoriaoluwaferanmi)
+- 💼 **LinkedIn:** [Victoria Oluwaferanmi](https://www.linkedin.com/in/victoria-oluwaferanmi-463352116/)
+- 📄 **Resume:** [View on Google Drive](https://drive.google.com/file/d/17CgiiYwfqXQ4NgXa_i8wGKmnGyZ00DCX/view?usp=drive_link)
+- 📧 **Email:** victoriaoluwaferanmi@gmail.com
+
+---
+
+⚡ **Passionate about creating clean, efficient code and delightful user experiences.**
