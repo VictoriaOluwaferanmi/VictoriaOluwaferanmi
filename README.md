@@ -1,6 +1,6 @@
 # Hi there, I'm Victoria Oluwaferanmi 👋
 
-I'm a **Frontend Developer | Aspiring Cloud Engineer | AWS & Linux** 
+I'm a **Frontend Developer transitioning into Cloud Engineering | AWS | Linux | Bash | Ansible** 
 
 ## 💼 About Me
 My journey began with frontend development, where I worked with web technologies to build responsive and user-friendly interfaces.
