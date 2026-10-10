@@ -1,29 +1,42 @@
 # Hi there, I'm Victoria Oluwaferanmi 👋
 
-I'm a **Frontend Developer** passionate about building responsive, user-friendly web applications that deliver excellent user experiences.
+I'm a **Frontend Developer | Aspiring Cloud Engineer | AWS & Linux** 
 
 ## 💼 About Me
-I'm a frontend specialist with expertise in creating clean, performance-optimized interfaces using modern web technologies. I'm actively seeking opportunities to contribute to impactful projects with collaborative teams.
+My journey began with frontend development, where I worked with web technologies to build responsive and user-friendly interfaces.
+
+I'm now growing my skills in cloud engineering, focusing on AWS infrastructure, Linux administration, Bash scripting, Ansible, and web server deployment.
+
+My goal is to combine my software development background with practical cloud infrastructure and automation skills.
 
 ## 🔧 Skills & Technologies
+
 - **Languages:** HTML, CSS, JavaScript
 - **Frameworks & Libraries:** React
 - **Design & Prototyping:** Figma
-- **Version Control:** Git, GitHub, GitLab
 - **API Integration:** RESTful APIs, data fetching
 
-## 🌱 What I Do
-- Build responsive, mobile-first web applications
-- Develop interactive user interfaces with React
-- Translate designs into clean, maintainable code
-- Integrate APIs and manage data workflows
-- Collaborate with designers and developers
+- **Cloud Engineering:** 
+Amazon Web Services (AWS)
+Amazon EC2
+Amazon S3
+Application Load Balancer (ALB)
+AWS Security Groups
 
-## 💬 Open To
-- Freelance projects and contract work
-- Full-time frontend developer roles
-- UI/UX focused collaborations
-- Open source contributions
+- **Linux & Automation:**
+Linux / Ubuntu
+Bash scripting
+Cron jobs and scheduled tasks
+Ansible
+Apache HTTP Server
+
+- **Tools & Workflow**
+Git and GitHub
+SSH
+YAML
+MySQL
+
+
 
 ## 📚 My Work & Articles
 - 📝 **Medium:** [victoriaoluwaferanmi](https://medium.com/@victoriaoluwaferanmi)
